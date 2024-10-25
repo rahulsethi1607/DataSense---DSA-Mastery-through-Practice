@@ -1,4 +1,7 @@
 # DataSense---DSA-Mastery-through-Practice
+AUTHOR- RAHUL SETHI
+
+
 The DataSense project is an initiative aimed at mastering Data Structures and Algorithms (DSA) through structured practice. This project provides a curated collection of DSA questions that need to be solved using Python, focusing on both foundational concepts and complex problem-solving techniques.
 
 Objectives
